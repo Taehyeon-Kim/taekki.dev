@@ -1,21 +1,18 @@
 module.exports = {
-  title: `Bee starter`,
+  title: `TAEKKI.dev`,
   description: `Blog posted about ...`,
-  author: `[Your Name]`,
-  introduction: `I explain with words and code. I explain with words and code. I explain with words and code.`,
-  siteUrl: `https://gatsby-starter-bee.netlify.com`, // Your blog site url
+  author: `tae_kki`,
+  introduction: `배워가고 있는 학생 개발자입니다. Interseted in iOS, JS, WEB-FE, UI/UX, COLOR.`,
+  siteUrl: `https://taekki.dev`, // Your blog site url
   social: {
-    twitter: ``, // Your Twitter account
-    github: ``, // Your GitHub account
-    medium: ``, // Your Medium account
-    facebook: ``, // Your Facebook account
-    linkedin: ``, // Your LinkedIn account
+    github: `https://github.com/`, // Your GitHub account
+    facebook: `https://www.instagram.com/tae_kki/`, // Your Instagram account
   },
   icon: `content/assets/felog.png`, // Add your favicon
   keywords: [`blog`],
   comment: {
     disqusShortName: '', // Your disqus-short-name. check disqus.com.
-    utterances: 'JaeYeopHan/gatsby-starter-bee', // Your repository for archive comment
+    utterances: 'Taehyeon-Kim/taekki.dev', // Your repository for archive comment
   },
   configs: {
     countOfInitialPost: 10, // Config your initial count of post
