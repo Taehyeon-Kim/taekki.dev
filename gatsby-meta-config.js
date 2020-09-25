@@ -2,7 +2,7 @@ module.exports = {
   title: `TAEKKI.dev`,
   description: `Blog posted about ...`,
   author: `tae_kki`,
-  introduction: `배워가는 중인 학생 개발자입니다. Interseted in iOS, JS, WEB-FE, UI/UX, COLOR.`,
+  introduction: `배워가는 중인 학생 개발자입니다. Interseted in iOS, Mobile UI, WEB, UI/UX design.`,
   siteUrl: `https://taekki.dev`, // Your blog site url
   social: {
     twitter: ``, // Your Twitter account
