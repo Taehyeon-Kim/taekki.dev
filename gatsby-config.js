@@ -66,6 +66,14 @@ module.exports = {
               inlineCodeMarker: '%',
             },
           },
+          {
+            resolve: `gatsby-plugin-robots-txt`,
+            options: {
+              host: 'https://taekki.dev',
+              sitemap: 'https://taekki.dev/sitemap.xml',
+              policy: [{ userAgent: '*', allow: '/'}]
+            },
+          },
           `gatsby-remark-copy-linked-files`,
           `gatsby-remark-smartypants`,
           `gatsby-remark-autolink-headers`,
