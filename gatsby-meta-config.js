@@ -1,5 +1,5 @@
 module.exports = {
-  title: `TAEKKI.dev`,
+  title: `taekki.dev`,
   description: `Blog posted about ...`,
   author: `tae_kki`,
   introduction: `배워가는 중인 학생 개발자입니다. Interseted in iOS, Mobile UI, WEB, UI/UX design.`,

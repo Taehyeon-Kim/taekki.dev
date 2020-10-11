@@ -2,6 +2,12 @@ const metaConfig = require('./gatsby-meta-config')
 
 module.exports = {
   siteMetadata: metaConfig,
+  // siteMetadata: {
+  //   title: 'taekki.dev',
+  //   author: 'taekki',
+  //   description: '개발 공부를 하면서 배운 것과 느낀 점을 정리하는 공간입니다.',
+  //   siteUrl: 'https://taekki.dev'
+  // },
   plugins: [
     {
       resolve: `gatsby-source-filesystem`,
